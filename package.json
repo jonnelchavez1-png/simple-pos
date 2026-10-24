@@ -1,0 +1,11 @@
+{
+  "name": "simple-pos-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Free, installable POS and income/expense tracker for any kind of business",
+  "scripts": {
+    "test": "node --test",
+    "serve": "node tools/serve.js"
+  }
+}
